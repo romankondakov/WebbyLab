@@ -1,2 +1,2 @@
 # WebbyLab
-Клонирование проекта 
+Сloning a project
